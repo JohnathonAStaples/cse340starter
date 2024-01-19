@@ -6,7 +6,7 @@ CREATE TYPE public.account_type AS ENUM
     ('Client', 'Employee', 'Admin');
 
 ALTER TYPE public.account_type
-    OWNER TO cse340jas;
+    OWNER TO jascse340;
 
 -- Table structure for table `classification`
 CREATE TABLE public.classification (
@@ -240,3 +240,4 @@ VALUES   (
     'White',
     5
   );
+
