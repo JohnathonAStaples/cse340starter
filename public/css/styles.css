@@ -85,6 +85,9 @@ nav li {
   padding-bottom: 1em;
 }
 
+#messages {
+  color: red;
+}
 /*
 Footer styles
 */
