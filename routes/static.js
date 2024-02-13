@@ -10,6 +10,3 @@ router.use("/images", express.static(__dirname + "public/images"));
 router.use
 
 module.exports = router;
-
-
-

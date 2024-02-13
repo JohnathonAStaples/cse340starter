@@ -85,6 +85,10 @@ nav li {
   padding-bottom: 1em;
 }
 
+#inv-display li {
+  list-style: none;
+}
+
 #messages {
   color: red;
 }
@@ -279,4 +283,3 @@ figure figcaption {
 }
 
 }
-
